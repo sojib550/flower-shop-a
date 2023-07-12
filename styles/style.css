@@ -127,9 +127,11 @@ nav div {
     text-align: center;
     padding: 200px 0px 300px 400px;
 }
-.off2{
+
+.off2 {
     padding: 100px 400px 100px 0px;
 }
+
 .offerd {
     color: #272727;
     font-size: 40px;
@@ -146,4 +148,27 @@ nav div {
 .offerb {
     border-radius: 8px;
     background: #E55473;
+}
+
+.insta {
+    text-align: center;
+    padding: 100px 200px 0 200px;
+}
+
+.instat {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+.instap{
+    color: rgba(39, 39, 39, 0.60);
+font-size: 18px;
+font-weight: 400;
+line-height: 30px;
+}
+.react{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    gap: 20px;
 }
