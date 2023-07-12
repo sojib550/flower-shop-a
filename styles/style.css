@@ -1,0 +1,43 @@
+body {
+    margin: auto;
+    padding: 0;
+}
+
+nav {
+    background: rgba(229, 84, 115, 0.1);
+}
+
+button {
+    border-radius: 8px;
+    background: #e55473;
+    display: inline-flex;
+    padding: 20px 43px;
+    align-items: flex-start;
+    gap: 10px;
+    color: #fff;
+    font-family: Lato;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+}
+
+nav div {
+    padding-left: 240px;
+    padding-right: 150px;
+    padding-top: 48px;
+}
+
+.nav-header {
+    color: #272727;
+    font-family: Lato;
+    font-size: 80px;
+    font-style: normal;
+    font-weight: 800;
+    line-height: normal;
+}
