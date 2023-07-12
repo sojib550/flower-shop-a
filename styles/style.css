@@ -15,11 +15,8 @@ button {
     align-items: flex-start;
     gap: 10px;
     color: #fff;
-    font-family: Lato;
     font-size: 20px;
-    font-style: normal;
     font-weight: 700;
-    line-height: normal;
     border: 0;
 }
 
@@ -116,4 +113,37 @@ nav div {
     width: 464px;
     height: 538px;
     flex-shrink: 0;
+}
+
+.offer {
+    display: flex;
+    border-radius: 8px;
+    background: rgba(229, 84, 115, 0.05);
+    justify-content: center;
+    gap: 200px;
+}
+
+.off1 {
+    text-align: center;
+    padding: 200px 0px 300px 400px;
+}
+.off2{
+    padding: 100px 400px 100px 0px;
+}
+.offerd {
+    color: #272727;
+    font-size: 40px;
+    font-weight: 800;
+}
+
+.offerp {
+    color: rgba(39, 39, 39, 0.60);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+
+.offerb {
+    border-radius: 8px;
+    background: #E55473;
 }
